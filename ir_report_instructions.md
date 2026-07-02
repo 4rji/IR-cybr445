@@ -19,7 +19,7 @@ Assume the working folder contains:
 
 - The evidence document provided by the user.
 - `logo.png` for the cover page.
-- Optional screenshots/images that may be added later.
+- check the folder screenshots for evidence
 
 If screenshots are referenced in the evidence document but not available as separate image files, insert clear placeholders in Markdown and LaTeX where screenshots should be added later.
 
