@@ -1,9 +1,5 @@
 # Evidence for First Incident Response Report
 
-> Documento extraído del PDF original *"Evidence for first incident response report.pdf"* (22 páginas).
-> El texto se ha transcrito de forma fiel al original (en inglés) y las capturas de pantalla se han
-> extraído a la carpeta [`capturas/`](capturas/), referenciadas en su posición correspondiente.
-
 ---
 
 ## Overview of attack
