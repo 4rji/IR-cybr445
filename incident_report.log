@@ -1,0 +1,813 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.3.22)  1 JUL 2026 23:23
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/Users/simba/GitHub/IR-cybr445/incident_report.tex
+(/Users/simba/GitHub/IR-cybr445/incident_report.tex
+LaTeX2e <2025-11-01>
+L3 programming layer <2026-01-19>
+(/usr/local/texlive/2026/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
+(/usr/local/texlive/2026/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count275
+\c@section=\count276
+\c@subsection=\count277
+\c@subsubsection=\count278
+\c@paragraph=\count279
+\c@subparagraph=\count280
+\c@figure=\count281
+\c@table=\count282
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen148
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2026/03/07 v6.0 Page Geometry
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+) (/usr/local/texlive/2026/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (/usr/local/texlive/2026/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+))
+\Gm@cnth=\count283
+\Gm@cntv=\count284
+\c@Gm@tempcnt=\count285
+\Gm@bindingoffset=\dimen149
+\Gm@wd@mp=\dimen150
+\Gm@odd@mp=\dimen151
+\Gm@even@mp=\dimen152
+\Gm@layoutwidth=\dimen153
+\Gm@layoutheight=\dimen154
+\Gm@layouthoffset=\dimen155
+\Gm@layoutvoffset=\dimen156
+\Gm@dimlist=\toks18
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2025/09/29 v1.2d Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen157
+\Gin@req@width=\dimen158
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2025-10-13 v4.24 Multi-page Table package (DPC)
+\LTleft=\skip51
+\LTright=\skip52
+\LTpre=\skip53
+\LTpost=\skip54
+\LTchunksize=\count286
+\LTcapwidth=\dimen159
+\LT@head=\box53
+\LT@firsthead=\box54
+\LT@foot=\box55
+\LT@lastfoot=\box56
+\LT@gbox=\box57
+\LT@cols=\count287
+\LT@rows=\count288
+\c@LT@tables=\count289
+\c@LT@chunks=\count290
+\LT@p@ftn=\toks19
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen160
+\lightrulewidth=\dimen161
+\cmidrulewidth=\dimen162
+\belowrulesep=\dimen163
+\belowbottomsep=\dimen164
+\aboverulesep=\dimen165
+\abovetopsep=\dimen166
+\cmidrulesep=\dimen167
+\cmidrulekern=\dimen168
+\defaultaddspace=\dimen169
+\@cmidla=\count291
+\@cmidlb=\count292
+\@aboverulesep=\dimen170
+\@belowrulesep=\dimen171
+\@thisruleclass=\count293
+\@lastruleclass=\count294
+\@thisrulewidth=\dimen172
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2026-01-29 v7.01p Hypertext links for LaTeX
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+) (/usr/local/texlive/2026/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (/usr/local/texlive/2026/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+ (/usr/local/texlive/2026/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+) (/usr/local/texlive/2026/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (/usr/local/texlive/2026/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)) (/usr/local/texlive/2026/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2026-01-29 v2.58 Cross-referencing by name of section
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (/usr/local/texlive/2026/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count295
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count296
+) (/usr/local/texlive/2026/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
+)
+\@linkdim=\dimen173
+\Hy@linkcounter=\count297
+\Hy@pagecounter=\count298
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2026-01-29 v7.01p Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (/usr/local/texlive/2026/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count299
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2026-01-29 v7.01p Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4201.
+Package hyperref Info: Link nesting OFF on input line 4206.
+Package hyperref Info: Hyper index ON on input line 4209.
+Package hyperref Info: Plain pages OFF on input line 4216.
+Package hyperref Info: Backreferencing OFF on input line 4221.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4468.
+\c@Hy@tempcnt=\count300
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4807.
+\XeTeXLinkMargin=\dimen174
+ (/usr/local/texlive/2026/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ (/usr/local/texlive/2026/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count301
+\Field@Width=\dimen175
+\Fld@charsize=\dimen176
+Package hyperref Info: Hyper figures OFF on input line 6084.
+Package hyperref Info: Link nesting OFF on input line 6089.
+Package hyperref Info: Hyper index ON on input line 6092.
+Package hyperref Info: backreferencing OFF on input line 6099.
+Package hyperref Info: Link coloring OFF on input line 6104.
+Package hyperref Info: Link coloring with OCG OFF on input line 6109.
+Package hyperref Info: PDF/A mode OFF on input line 6114.
+\Hy@abspage=\count302
+\c@Item=\count303
+\c@Hfootnote=\count304
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2026-01-29 v7.01p Hyperref driver for pdfTeX
+\Fld@listcount=\count305
+\c@bookmark@seq@number=\count306
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2025-06-21 v1.11 Rerun checks for auxiliary files (HO)
+ (/usr/local/texlive/2026/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 284.
+)
+\Hy@SectionHShift=\skip55
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count307
+\float@exts=\toks20
+\float@box=\box58
+\@float@everytoks=\toks21
+\@floatcapt=\box59
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/tools/array.sty
+Package: array 2025/09/25 v2.6n Tabular extension package (FMi)
+\col@sep=\dimen177
+\ar@mcellbox=\box60
+\extrarowheight=\dimen178
+\NC@list=\toks22
+\extratabsurround=\skip56
+\backup@length=\skip57
+\ar@cellbox=\box61
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 18.
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count308
+) (./incident_report.aux)
+\openout1 = `incident_report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=469.75502pt
+* \textheight=650.43001pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/local/texlive/2026/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count309
+\scratchdimen=\dimen179
+\scratchbox=\box62
+\nofMPsegments=\count310
+\nofMParguments=\count311
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count312
+\MPscratchDim=\dimen180
+\MPnumerator=\count313
+\makeMPintoPDFobject=\count314
+\everyMPtoPDFconversion=\toks24
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+Package hyperref Info: Link coloring ON on input line 27.
+ (./incident_report.out) (./incident_report.out)
+\@outlinefile=\write3
+\openout3 = `incident_report.out'.
+
+<logo.png, id=84, 393.47pt x 332.24126pt>
+File: logo.png Graphic file (type png)
+<use logo.png>
+Package pdftex.def Info: logo.png  used on input line 34.
+(pdftex.def)             Requested size: 211.38832pt x 178.49pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 39.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 39.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 39.
+<capturas/fig-01.png, id=86, 1393.205pt x 762.85pt>
+File: capturas/fig-01.png Graphic file (type png)
+<use capturas/fig-01.png>
+Package pdftex.def Info: capturas/fig-01.png  used on input line 54.
+(pdftex.def)             Requested size: 422.77664pt x 231.48744pt.
+ [1
+
+{/usr/local/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./logo.png>] [2
+pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.58 \end{titlepage}
+                     <./capturas/fig-01.png (PNG copy)>] (./incident_report.toc)
+\tf@toc=\write4
+\openout4 = `incident_report.toc'.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.61 \newpage
+              [1]
+ignored: Infinite glue shrinkage found in box being split
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.97 \end{longtable}
+                     [2]
+Overfull \hbox (12.38164pt too wide) in paragraph at lines 104--105
+\OT1/cmr/m/n/12 logged in, and it down-loaded a full at-tacker toolkit in-clud-ing credential-stealing tools (mimikatz,
+ []
+
+[3]
+LaTeX Font Info:    Trying to load font information for OMS+cmtt on input line 106.
+LaTeX Font Info:    No file OMScmtt.fd. on input line 106.
+
+
+LaTeX Font Warning: Font shape `OMS/cmtt/m/n' undefined
+(Font)              using `OMS/cmsy/m/n' instead
+(Font)              for symbol `textbackslash' on input line 106.
+
+
+Overfull \hbox (65.60837pt too wide) in paragraph at lines 106--107
+\OT1/cmtt/m/n/12 %APPDATA%\OMS/cmtt/m/n/12 n\OT1/cmtt/m/n/12 EpUpdate\OMS/cmtt/m/n/12 n\OT1/cmr/m/n/12 ), the per-sis-tence reg-istry key \OT1/cmtt/m/n/12 GhCtxq8t\OT1/cmr/m/n/12 , the at-tacker do-mains \OT1/cmtt/m/n/12 blog.mycompany.ex
+ []
+
+[4]
+Overfull \hbox (3.57057pt too wide) in paragraph at lines 124--126
+\OT1/cmr/bx/n/12 Answer: \OT1/cmr/m/n/12 A down-loader, \OT1/cmtt/m/n/12 54948tp.exe \OT1/cmr/m/n/12 (py2exe), cre-ated at 13:10:03 and ex-e-cuted at 13:10:13,
+ []
+
+
+Overfull \hbox (4.78075pt too wide) in paragraph at lines 124--126
+\OT1/cmr/m/n/12 fetched \OT1/cmtt/m/n/12 data[]32.bin \OT1/cmr/m/n/12 from [][]$\OT1/cmtt/m/n/12 http : / / blog . mysportclub . ex / wp-[]content / uploads / hk / files /
+ []
+
+
+Overfull \hbox (30.36531pt too wide) in paragraph at lines 124--126
+\OT1/cmr/bx/n/12 Supporting Ev-i-dence: \OT1/cmr/m/n/12 De-com-piled \OT1/cmtt/m/n/12 54948tp.exe\OT1/cmr/m/n/12 /\OT1/cmtt/m/n/12 3568226350.exe \OT1/cmr/m/n/12 (\OT1/cmtt/m/n/12 DOWNLOAD[]URL\OT1/cmr/m/n/12 , \OT1/cmtt/m/n/12 get[]toolz\OT1/cmr/m/n/12 );
+ []
+
+[5]
+Overfull \hbox (5.71219pt too wide) in paragraph at lines 141--142
+[]|\OT1/cmr/bx/n/12 Compromise 
+ []
+
+
+Overfull \hbox (8.23587pt too wide) in paragraph at lines 149--149
+\OT1/cmtt/m/n/12 blog.mycompany.ex|  
+ []
+
+
+Overfull \hbox (41.10559pt too wide) in paragraph at lines 150--150
+\OT1/cmr/m/n/12 (\OT1/cmtt/m/n/12 blog.mysportclub.ex\OT1/cmr/m/n/12 )|  
+ []
+
+
+Overfull \hbox (20.70396pt too wide) in paragraph at lines 162--163
+\OT1/cmr/m/n/12 xtreme[]rat/xtremrat 
+ []
+
+
+Overfull \hbox (64.9141pt too wide) in paragraph at lines 163--163
+[]|\OT1/cmtt/m/n/12 %APPDATA%\OMS/cmtt/m/n/12 n\OT1/cmtt/m/n/12 HostData\OMS/cmtt/m/n/12 n\OT1/cmtt/m/n/12 update.exe|  
+ []
+
+
+Overfull \hbox (3.16406pt too wide) in paragraph at lines 165--165
+[]|\OT1/cmtt/m/n/12 %APPDATA%\OMS/cmtt/m/n/12 n\OT1/cmtt/m/n/12 EpUpdate\OMS/cmtt/m/n/12 n|  
+ []
+
+
+Overfull \hbox (3.51404pt too wide) in paragraph at lines 168--168
+[]|\OT1/cmtt/m/n/12 blog.mysportclub.ex|  
+ []
+
+
+Overfull \hbox (3.51404pt too wide) in paragraph at lines 170--170
+[]|\OT1/cmtt/m/n/12 .../opspy/index.php 
+ []
+
+
+Overfull \hbox (3.51404pt too wide) in paragraph at lines 170--170
+\OT1/cmtt/m/n/12 blog.mysportclub.ex|  
+ []
+
+
+Overfull \hbox (27.86407pt too wide) in paragraph at lines 171--171
+[]|\OT1/cmtt/m/n/12 NTUSER.DAT\OMS/cmtt/m/n/12 n\OT1/cmtt/m/n/12 ...\OMS/cmtt/m/n/12 n\OT1/cmtt/m/n/12 GhCtxq8t|  
+ []
+
+
+ignored: Infinite glue shrinkage found in box being split [6
+
+]
+Overfull \hbox (39.86156pt too wide) in paragraph at lines 175--176
+\OT1/cmr/bx/n/12 Secondary evidence-supported in-di-ca-tors: \OT1/cmr/m/n/12 URL [][]$\OT1/cmtt/m/n/12 http : / / blog . mysportclub . ex / wp-[]content /
+ []
+
+
+Overfull \hbox (1.65968pt too wide) in paragraph at lines 175--176
+\OT1/cmtt/m/n/12 uploads / hk / files / data _ 32 . bin$[][]\OT1/cmr/m/n/12 ; \OT1/cmtt/m/n/12 wdigest.reg \OT1/cmr/m/n/12 (\OT1/cmtt/m/n/12 UseLogonCredential\OT1/cmr/m/n/12 ); \OT1/cmr/bx/n/12 CVE-2012-3993\OT1/cmr/m/n/12 ;
+ []
+
+
+Overfull \hbox (8.7904pt too wide) in paragraph at lines 181--186
+\OT1/cmr/bx/n/12 Collection / Re-view Method: \OT1/cmr/m/n/12 Volatil-ity. \OT1/cmtt/m/n/12 imageinfo \OT1/cmr/m/n/12 sug-gested pro-file \OT1/cmtt/m/n/12 Win10x86[]44B89EEA\OT1/cmr/m/n/12 ;
+ []
+
+
+Overfull \hbox (12.67632pt too wide) in paragraph at lines 181--186
+\OT1/cmtt/m/n/12 update.exe \OT1/cmr/m/n/12 (5172); boot 12:54:24; ma-li-cious pro-cesses $\OMS/cmtt/m/n/12 ^^X$\OT1/cmr/m/n/12 13:02:57; two \OT1/cmtt/m/n/12 explorer.exe \OT1/cmr/m/n/12 (RunPE);
+ []
+
+<capturas/fig-05.png, id=162, 1226.5825pt x 200.75pt>
+File: capturas/fig-05.png Graphic file (type png)
+<use capturas/fig-05.png>
+Package pdftex.def Info: capturas/fig-05.png  used on input line 188.
+(pdftex.def)             Requested size: 375.80544pt x 61.50587pt.
+<capturas/fig-08.png, id=163, 1220.56pt x 295.1025pt>
+File: capturas/fig-08.png Graphic file (type png)
+<use capturas/fig-08.png>
+Package pdftex.def Info: capturas/fig-08.png  used on input line 192.
+(pdftex.def)             Requested size: 375.80544pt x 90.85942pt.
+[7]
+<capturas/fig-12.png, id=169, 1218.5525pt x 162.6075pt>
+File: capturas/fig-12.png Graphic file (type png)
+<use capturas/fig-12.png>
+Package pdftex.def Info: capturas/fig-12.png  used on input line 196.
+(pdftex.def)             Requested size: 375.80544pt x 50.14728pt.
+
+Overfull \hbox (0.4707pt too wide) in paragraph at lines 201--206
+\OT1/cmr/m/n/12 (Xtreme RAT) in IN-et-Cache; \OT1/cmtt/m/n/12 %TEMP%\OMS/cmtt/m/n/12 n\OT1/cmtt/m/n/12 svchost.exe\OT1/cmr/m/n/12 ; \OT1/cmtt/m/n/12 %APPDATA%\OMS/cmtt/m/n/12 n\OT1/cmtt/m/n/12 HostData\OMS/cmtt/m/n/12 n\OT1/cmtt/m/n/12 update.exe \OT1/cmr/m/n/12 con-
+ []
+
+<capturas/fig-16.png, id=170, 1222.5675pt x 606.265pt>
+File: capturas/fig-16.png Graphic file (type png)
+<use capturas/fig-16.png>
+Package pdftex.def Info: capturas/fig-16.png  used on input line 208.
+(pdftex.def)             Requested size: 375.80544pt x 186.3583pt.
+<capturas/fig-17.png, id=171, 1222.5675pt x 554.07pt>
+File: capturas/fig-17.png Graphic file (type png)
+<use capturas/fig-17.png>
+Package pdftex.def Info: capturas/fig-17.png  used on input line 212.
+(pdftex.def)             Requested size: 375.80544pt x 170.31421pt.
+[8
+pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.214 \end{figure}
+                  
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.214 \end{figure}
+                  
+pdfTeX warning (ext4): destination with the same identifier (name{figure.4}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.214 \end{figure}
+                   <./capturas/fig-05.png (PNG copy)> <./capturas/fig-08.png (PNG copy)> <./capturas/fig-12.png (PNG copy)>]
+<capturas/fig-19.png, id=179, 1222.5675pt x 606.265pt>
+File: capturas/fig-19.png Graphic file (type png)
+<use capturas/fig-19.png>
+Package pdftex.def Info: capturas/fig-19.png  used on input line 216.
+(pdftex.def)             Requested size: 375.80544pt x 186.3583pt.
+ [9
+pdfTeX warning (ext4): destination with the same identifier (name{figure.5}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.219 
+      
+pdfTeX warning (ext4): destination with the same identifier (name{figure.6}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.219 
+       <./capturas/fig-16.png (PNG copy)> <./capturas/fig-17.png (PNG copy)>]
+LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 220.
+
+Overfull \hbox (12.46379pt too wide) in paragraph at lines 221--226
+\OT1/cmr/bx/n/12 Relevant Facts Found: \OT1/cmtt/m/n/12 DOWNLOAD[]URL \OT1/cmr/m/n/12 to \OT1/cmtt/m/n/12 data[]32.bin \OT1/cmr/m/n/12 on \OT1/cmtt/m/n/12 blog.mysportclub.ex\OT1/cmr/m/n/12 ; \OT1/cmtt/m/n/12 get[]toolz
+ []
+
+
+Overfull \hbox (13.03671pt too wide) in paragraph at lines 221--226
+\OT1/cmr/bx/n/12 Replication Steps: \OT1/cmr/m/n/12 Ex-tract Python from the py2exe bi-nary; de-com-pile; re-view \OT1/cmtt/m/n/12 DOWNLOAD[]URL\OT1/cmr/m/n/12 ,
+ []
+
+<capturas/fig-24.png, id=186, 1214.5375pt x 592.2125pt>
+File: capturas/fig-24.png Graphic file (type png)
+<use capturas/fig-24.png>
+Package pdftex.def Info: capturas/fig-24.png  used on input line 228.
+(pdftex.def)             Requested size: 375.80544pt x 183.24059pt.
+<capturas/fig-26.png, id=187, 1212.53pt x 461.725pt>
+File: capturas/fig-26.png Graphic file (type png)
+<use capturas/fig-26.png>
+Package pdftex.def Info: capturas/fig-26.png  used on input line 232.
+(pdftex.def)             Requested size: 375.80544pt x 143.10509pt.
+[10
+pdfTeX warning (ext4): destination with the same identifier (name{figure.7}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.235 
+      
+pdfTeX warning (ext4): destination with the same identifier (name{figure.8}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.235 
+       <./capturas/fig-19.png (PNG copy)> <./capturas/fig-24.png (PNG copy)>]
+Overfull \hbox (127.64752pt too wide) in paragraph at lines 237--242
+\OT1/cmr/bx/n/12 Relevant Facts Found: \OT1/cmtt/m/n/12 update.exe \OT1/cmr/m/n/12 13:03:03--04; \OT1/cmtt/m/n/12 54948tp.exe \OT1/cmr/m/n/12 13:10:13; \OT1/cmtt/m/n/12 mimikatz.exe\OT1/cmr/m/n/12 /\OT1/cmtt/m/n/12 browserprocessdump.exe
+ []
+
+
+Overfull \hbox (15.41457pt too wide) in paragraph at lines 237--242
+\OT1/cmr/m/n/12 13:14:47; system-profiling 13:34:25--51 (and \OT1/cmtt/m/n/12 whoami\OT1/cmr/m/n/12 /\OT1/cmtt/m/n/12 ipconfig \OT1/cmr/m/n/12 13:08--10); \OT1/cmtt/m/n/12 nmap.exe \OT1/cmr/m/n/12 last 13:59:34
+ []
+
+<capturas/fig-31.png, id=194, 1258.7025pt x 307.1475pt>
+File: capturas/fig-31.png Graphic file (type png)
+<use capturas/fig-31.png>
+Package pdftex.def Info: capturas/fig-31.png  used on input line 244.
+(pdftex.def)             Requested size: 375.80544pt x 91.7044pt.
+
+Overfull \hbox (1.0089pt too wide) in paragraph at lines 249--254
+\OT1/cmr/bx/n/12 How It Sup-ports the In-ves-ti-ga-tion: \OT1/cmr/m/n/12 In-de-pen-dently cor-rob-o-rates enumeration/credential-
+ []
+
+<capturas/fig-32.png, id=195, 1246.6575pt x 246.9225pt>
+File: capturas/fig-32.png Graphic file (type png)
+<use capturas/fig-32.png>
+Package pdftex.def Info: capturas/fig-32.png  used on input line 256.
+(pdftex.def)             Requested size: 375.80544pt x 74.43524pt.
+[11
+pdfTeX warning (ext4): destination with the same identifier (name{figure.9}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.259 
+      
+pdfTeX warning (ext4): destination with the same identifier (name{figure.10}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.259 
+       <./capturas/fig-26.png (PNG copy)> <./capturas/fig-31.png (PNG copy)>]
+<capturas/fig-34.png, id=203, 1246.6575pt x 650.43pt>
+File: capturas/fig-34.png Graphic file (type png)
+<use capturas/fig-34.png>
+Package pdftex.def Info: capturas/fig-34.png  used on input line 268.
+(pdftex.def)             Requested size: 375.80544pt x 196.07335pt.
+<capturas/fig-37.png, id=204, 1230.5975pt x 202.7575pt>
+File: capturas/fig-37.png Graphic file (type png)
+<use capturas/fig-37.png>
+Package pdftex.def Info: capturas/fig-37.png  used on input line 272.
+(pdftex.def)             Requested size: 375.80544pt x 61.91673pt.
+ [12
+pdfTeX warning (ext4): destination with the same identifier (name{figure.11}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.281 \item \textbf
+                   {Reset the compromised user credentials} and, given mimik...
+pdfTeX warning (ext4): destination with the same identifier (name{figure.12}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.281 \item \textbf
+                   {Reset the compromised user credentials} and, given mimik...
+pdfTeX warning (ext4): destination with the same identifier (name{figure.13}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.281 \item \textbf
+                   {Reset the compromised user credentials} and, given mimik... <./capturas/fig-32.png (PNG copy)> <./capturas/fig-34.png (PNG copy)> <./capturas/fig-37.png (PNG copy)>]
+Overfull \hbox (71.93486pt too wide) in paragraph at lines 281--282
+[]\OT1/cmr/bx/n/12 Reset the com-pro-mised user cre-den-tials \OT1/cmr/m/n/12 and, given mimikatz/Pwdump/BrowserPasswordDump
+ []
+
+
+Overfull \hbox (4.18913pt too wide) in paragraph at lines 283--284
+[]\OT1/cmr/bx/n/12 Removed ma-li-cious files\OT1/cmr/m/n/12 : \OT1/cmtt/m/n/12 %APPDATA%\OMS/cmtt/m/n/12 n\OT1/cmtt/m/n/12 HostData\OMS/cmtt/m/n/12 n\OT1/cmtt/m/n/12 update.exe\OT1/cmr/m/n/12 , \OT1/cmtt/m/n/12 %TEMP%\OMS/cmtt/m/n/12 n\OT1/cmtt/m/n/12 svchost.exe\OT1/cmr/m/n/12 ,
+ []
+
+
+Overfull \hbox (83.43343pt too wide) in paragraph at lines 283--284
+\OT1/cmtt/m/n/12 %TEMP%\OMS/cmtt/m/n/12 n\OT1/cmtt/m/n/12 54948tp.exe\OT1/cmr/m/n/12 , \OT1/cmtt/m/n/12 %TEMP%\OMS/cmtt/m/n/12 n\OT1/cmtt/m/n/12 3568226350.exe\OT1/cmr/m/n/12 , \OT1/cmtt/m/n/12 %APPDATA%\OMS/cmtt/m/n/12 n\OT1/cmtt/m/n/12 EpUpdate\OMS/cmtt/m/n/12 n\OT1/cmr/m/n/12 , and \OT1/cmtt/m/n/12 %TMP%\OMS/cmtt/m/n/12 n\OT1/cmtt/m/n/12 SystemProfile\OMS/cmtt/m/n/12 n\OT1/cmr/m/n/12 . 
+ []
+
+
+Overfull \hbox (40.65652pt too wide) in paragraph at lines 285--286
+[]\OT1/cmr/bx/n/12 Blocked at-tacker in-fras-truc-ture\OT1/cmr/m/n/12 : do-mains \OT1/cmtt/m/n/12 blog.mycompany.ex \OT1/cmr/m/n/12 and \OT1/cmtt/m/n/12 blog.mysportclub.ex
+ []
+
+
+Overfull \hbox (11.72472pt too wide) in paragraph at lines 296--297
+[]\OT1/cmr/m/n/12 Patch or re-move the ex-ploited soft-ware --- up-grade Fire-fox from 33.0.3 and re-move/update
+ []
+
+[13{/usr/local/texlive/2026/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] [14]
+
+LaTeX Font Warning: Font shape `OMS/cmtt/bx/n' undefined
+(Font)              using `OMS/cmtt/m/n' instead
+(Font)              for symbol `textbackslash' on input line 341.
+
+
+Overfull \hbox (3.63649pt too wide) in paragraph at lines 342--343
+\OT1/cmr/m/n/12 7.12), \OT1/cmtt/m/n/12 pwdump/ \OT1/cmr/m/n/12 (Pw-dump), \OT1/cmtt/m/n/12 ssh/ \OT1/cmr/m/n/12 (plink, pscp), \OT1/cmtt/m/n/12 thc/ \OT1/cmr/m/n/12 (THC Hy-dra), \OT1/cmtt/m/n/12 passwords.txt \OT1/cmr/m/n/12 (common-
+ []
+
+<capturas/fig-41.png, id=222, 1345.025pt x 1445.4pt>
+File: capturas/fig-41.png Graphic file (type png)
+<use capturas/fig-41.png>
+Package pdftex.def Info: capturas/fig-41.png  used on input line 346.
+(pdftex.def)             Requested size: 399.29463pt x 429.08002pt.
+<capturas/fig-42.png, id=223, 1355.0625pt x 1760.5775pt>
+File: capturas/fig-42.png Graphic file (type png)
+<use capturas/fig-42.png>
+Package pdftex.def Info: capturas/fig-42.png  used on input line 350.
+(pdftex.def)             Requested size: 399.29463pt x 518.77486pt.
+[15]
+<capturas/fig-43.png, id=229, 1359.0775pt x 260.975pt>
+File: capturas/fig-43.png Graphic file (type png)
+<use capturas/fig-43.png>
+Package pdftex.def Info: capturas/fig-43.png  used on input line 354.
+(pdftex.def)             Requested size: 399.29463pt x 76.67236pt.
+ [16
+pdfTeX warning (ext4): destination with the same identifier (name{figure.14}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.356 \end{figure}
+                   <./capturas/fig-41.png (PNG copy)>] [17
+pdfTeX warning (ext4): destination with the same identifier (name{figure.15}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.357 
+       <./capturas/fig-42.png (PNG copy)>]
+<capturas/fig-07.png, id=242, 1216.545pt x 383.4325pt>
+File: capturas/fig-07.png Graphic file (type png)
+<use capturas/fig-07.png>
+Package pdftex.def Info: capturas/fig-07.png  used on input line 360.
+(pdftex.def)             Requested size: 352.31625pt x 111.04045pt.
+<capturas/fig-11.png, id=243, 907.39pt x 291.0875pt>
+File: capturas/fig-11.png Graphic file (type png)
+<use capturas/fig-11.png>
+Package pdftex.def Info: capturas/fig-11.png  used on input line 364.
+(pdftex.def)             Requested size: 352.31625pt x 113.02176pt.
+<capturas/fig-13.png, id=244, 1220.56pt x 305.14pt>
+File: capturas/fig-13.png Graphic file (type png)
+<use capturas/fig-13.png>
+Package pdftex.def Info: capturas/fig-13.png  used on input line 368.
+(pdftex.def)             Requested size: 352.31625pt x 88.07858pt.
+<capturas/fig-18.png, id=245, 1222.5675pt x 554.07pt>
+File: capturas/fig-18.png Graphic file (type png)
+<use capturas/fig-18.png>
+Package pdftex.def Info: capturas/fig-18.png  used on input line 372.
+(pdftex.def)             Requested size: 352.31625pt x 159.6701pt.
+<capturas/fig-21.png, id=246, 1216.545pt x 287.0725pt>
+File: capturas/fig-21.png Graphic file (type png)
+<use capturas/fig-21.png>
+Package pdftex.def Info: capturas/fig-21.png  used on input line 376.
+(pdftex.def)             Requested size: 352.31625pt x 83.135pt.
+ [18
+pdfTeX warning (ext4): destination with the same identifier (name{figure.16}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.378 \end{figure}
+                  
+pdfTeX warning (ext4): destination with the same identifier (name{figure.17}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.378 \end{figure}
+                  
+pdfTeX warning (ext4): destination with the same identifier (name{figure.18}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.378 \end{figure}
+                  
+pdfTeX warning (ext4): destination with the same identifier (name{figure.19}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.378 \end{figure}
+                   <./capturas/fig-43.png (PNG copy)> <./capturas/fig-07.png (PNG copy)> <./capturas/fig-11.png (PNG copy)> <./capturas/fig-13.png (PNG copy)>]
+<capturas/fig-25.png, id=256, 1210.5225pt x 586.19pt>
+File: capturas/fig-25.png Graphic file (type png)
+<use capturas/fig-25.png>
+Package pdftex.def Info: capturas/fig-25.png  used on input line 380.
+(pdftex.def)             Requested size: 352.31625pt x 170.60791pt.
+<capturas/fig-29.png, id=257, 1186.4325pt x 210.7875pt>
+File: capturas/fig-29.png Graphic file (type png)
+<use capturas/fig-29.png>
+Package pdftex.def Info: capturas/fig-29.png  used on input line 384.
+(pdftex.def)             Requested size: 352.31625pt x 62.59346pt.
+<capturas/fig-35.png, id=258, 1238.6275pt x 337.26pt>
+File: capturas/fig-35.png Graphic file (type png)
+<use capturas/fig-35.png>
+Package pdftex.def Info: capturas/fig-35.png  used on input line 388.
+(pdftex.def)             Requested size: 352.31625pt x 95.92969pt.
+<capturas/fig-39.png, id=259, 1288.815pt x 511.9125pt>
+File: capturas/fig-39.png Graphic file (type png)
+<use capturas/fig-39.png>
+Package pdftex.def Info: capturas/fig-39.png  used on input line 392.
+(pdftex.def)             Requested size: 352.31625pt x 139.93668pt.
+ [19
+pdfTeX warning (ext4): destination with the same identifier (name{figure.20}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.394 \end{figure}
+                  
+pdfTeX warning (ext4): destination with the same identifier (name{figure.21}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.394 \end{figure}
+                  
+pdfTeX warning (ext4): destination with the same identifier (name{figure.22}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.394 \end{figure}
+                  
+pdfTeX warning (ext4): destination with the same identifier (name{figure.23}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.394 \end{figure}
+                   <./capturas/fig-18.png (PNG copy)> <./capturas/fig-21.png (PNG copy)> <./capturas/fig-25.png (PNG copy)> <./capturas/fig-29.png (PNG copy)>]
+<capturas/fig-40.png, id=268, 1130.2225pt x 580.1675pt>
+File: capturas/fig-40.png Graphic file (type png)
+<use capturas/fig-40.png>
+Package pdftex.def Info: capturas/fig-40.png  used on input line 396.
+(pdftex.def)             Requested size: 352.31625pt x 180.8504pt.
+ [20
+pdfTeX warning (ext4): destination with the same identifier (name{figure.24}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.405 \end{document}
+                    
+pdfTeX warning (ext4): destination with the same identifier (name{figure.25}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.405 \end{document}
+                    
+pdfTeX warning (ext4): destination with the same identifier (name{figure.26}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.405 \end{document}
+                     <./capturas/fig-35.png (PNG copy)> <./capturas/fig-39.png (PNG copy)> <./capturas/fig-40.png (PNG copy)>] (./incident_report.aux)
+ ***********
+LaTeX2e <2025-11-01>
+L3 programming layer <2026-01-19>
+ ***********
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+Package rerunfilecheck Info: File `incident_report.out' has not changed.
+(rerunfilecheck)             Checksum: 9C3A51292B88F9FF9DAB1B2FB54926B4;2955.
+ ) 
+Here is how much of TeX's memory you used:
+ 10034 strings out of 467525
+ 156209 string characters out of 5418982
+ 595535 words of memory out of 5000000
+ 38767 multiletter control sequences out of 15000+600000
+ 633812 words of font info for 61 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 75i,6n,79p,1178b,572s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on incident_report.pdf (22 pages, 4523013 bytes).
+PDF statistics:
+ 325 PDF objects out of 1000 (max. 8388607)
+ 258 compressed objects within 3 object streams
+ 81 named destinations out of 1000 (max. 500000)
+ 296 words of extra memory for PDF output out of 10000 (max. 10000000)
+

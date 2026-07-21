@@ -1,0 +1,20 @@
+\contentsline {section}{\numberline {1}Executive Summary}{2}{section.1}%
+\contentsline {section}{\numberline {2}Timeline}{2}{section.2}%
+\contentsline {section}{\numberline {3}Findings}{3}{section.3}%
+\contentsline {section}{\numberline {4}Investigative Questions}{4}{section.4}%
+\contentsline {section}{\numberline {5}Systems / People Involved}{6}{section.5}%
+\contentsline {section}{\numberline {6}Indicators of Compromise}{6}{section.6}%
+\contentsline {section}{\numberline {7}Evidence Collected}{7}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Memory Image}{7}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Forensic Disk Image}{8}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}Payload / Downloader Analysis (\texttt {3568226350.exe}, \texttt {54948tp.exe})}{10}{subsection.7.3}%
+\contentsline {subsection}{\numberline {7.4}Prefetch}{11}{subsection.7.4}%
+\contentsline {subsection}{\numberline {7.5}Windows Event Logs}{11}{subsection.7.5}%
+\contentsline {subsection}{\numberline {7.6}Registry (RegRipper / WRR)}{12}{subsection.7.6}%
+\contentsline {section}{\numberline {8}Remediation}{13}{section.8}%
+\contentsline {section}{\numberline {9}Recommendations}{13}{section.9}%
+\contentsline {subsection}{\numberline {9.1}Short-Term Recommendations}{13}{subsection.9.1}%
+\contentsline {subsection}{\numberline {9.2}Long-Term Recommendations}{14}{subsection.9.2}%
+\contentsline {section}{\numberline {10}Lessons Learned}{14}{section.10}%
+\contentsline {section}{\numberline {11}Appendices}{14}{section.11}%
+\contentsline {section}{\numberline {12}References}{20}{section.12}%

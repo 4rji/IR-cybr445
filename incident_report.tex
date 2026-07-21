@@ -31,9 +31,7 @@
 \centering
 \vspace*{0.5cm}
 
-\includegraphics[width=0.45\textwidth]{logo.png}\\[1.5cm]
-
-{\Large\bfseries Privileged and Confidential}\\[2cm]
+\includegraphics[width=0.45\textwidth]{logo.png}\\[2cm]
 
 {\Huge\bfseries Incident Response Report}\\[0.6cm]
 {\LARGE Workstation Compromise via Drive-By\\Exploit Kit and Xtreme RAT}\\[2cm]
@@ -42,7 +40,10 @@
 \textbf{Affected Organization:} & Northbridge Financial Services\\[4pt]
 \textbf{Incident Number:} & IR-2026-001\\[4pt]
 \textbf{Date Published:} & 2026-07-01\\[4pt]
-\textbf{Investigation Performed By:} & Sentinel Ridge Cybersecurity\\[4pt]
+\textbf{Prepared By:} & Havi Arji\\[4pt]
+\textbf{Course:} & CYBR 445\\[4pt]
+\textbf{Instructor:} & Alex Hepp\\[4pt]
+\textbf{Investigation Performed By:} & 4rji Cybersec \\[4pt]
 \textbf{Classification:} & Privileged and Confidential\\
 \end{tabular}
 
@@ -66,7 +67,7 @@ Northbridge Financial Services engaged Sentinel Ridge Cybersecurity to investiga
 
 The investigation determined that the workstation was infected with \textbf{Xtreme RAT}, a commodity remote-access trojan that gives an attacker full remote control of a victim machine. The infection began when the user browsed to a legitimate but compromised website (\texttt{blog.mycompany.ex}). That site had been tampered with to silently redirect the browser to an \textbf{Exploit Kit} hosted at \texttt{blog.mysportclub.ex}. Because the workstation ran an outdated web browser and browser plugin, the Exploit Kit succeeded in running code without any user interaction beyond visiting the page --- a ``drive-by'' attack. The malware installed itself, established persistence so it would survive reboots, and then downloaded a toolkit of hacking utilities. Over the following two hours the attacker profiled the machine, scanned the internal network, attempted to guess passwords for other systems, connected to at least one internal host, and transferred data using file-copy tools --- behavior consistent with an active, hands-on-keyboard intruder attempting to move deeper into the network.
 
-The response goal was to establish how the machine was compromised, what the attacker did, which systems and accounts were affected, and which indicators the organization should hunt for enterprise-wide. Based on the evidence, the affected workstation was isolated and reimaged, associated accounts were reset, malicious files and persistence were removed, and the attacker's infrastructure was blocked. The forensic activity captured in the evidence spans \textbf{2016-08-16 12:54 UTC (system boot) to approximately 14:50 UTC (last observed attacker tool execution)}. The analysis engagement itself was conducted from \ptext{Engagement start date --- administrative placeholder} to \ptext{Engagement end date --- administrative placeholder}.
+The response goal was to establish how the machine was compromised, what the attacker did, which systems and accounts were affected, and which indicators the organization should hunt for enterprise-wide. Based on the evidence, the affected workstation was isolated and reimaged, associated accounts were reset, malicious files and persistence were removed, and the attacker's infrastructure was blocked. The forensic activity captured in the evidence spans \textbf{2016-08-16 12:54 UTC (system boot) to approximately 14:50 UTC (last observed attacker tool execution)}.
 
 %============================ 2. TIMELINE ============================
 \section{Timeline}
@@ -131,6 +132,7 @@ The affected workstation and the user account that was logged in at the time are
 \textbf{Answer:} The host ran outdated \textbf{Firefox 33.0.3} and \textbf{Adobe Flash 18.0.0.194}; kit code referenced multiple exploits including \textbf{CVE-2012-3993}. Enterprise-wide, hunt the paths \texttt{\%APPDATA\%\textbackslash HostData\textbackslash update.exe}, \texttt{\%TEMP\%\textbackslash svchost.exe}, \texttt{\%APPDATA\%\textbackslash EpUpdate\textbackslash}; the key \texttt{GhCtxq8t}; domains \texttt{blog.mycompany.ex} and \texttt{blog.mysportclub.ex}; IP 151.80.137.2; and filenames \texttt{update.exe}, \texttt{54948tp.exe}, \texttt{3568226350.exe}.\\
 \textbf{Supporting Evidence:} Registry Uninstall data; ClamAV detection of CVE-2012-3993 exploit code; IOC table (Figures 38--40).
 
+\clearpage
 %============================ 5. SYSTEMS / PEOPLE ============================
 \section{Systems / People Involved}
 
